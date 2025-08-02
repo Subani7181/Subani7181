@@ -6,10 +6,19 @@
 
 ## 🧑‍💼 About Me
 
-- 🎓 Passionate about transforming data into actionable insights  
-- 📊 Proficient in **Data Cleaning, Analysis, and Dashboarding**  
-- 💡 Currently working on personal projects involving **Excel**, **Python**, **Power BI**, and **SQL**  
-- 📈 Exploring **data storytelling** with **Tableau** and **Power BI**
+A dedicated and detail-oriented data analyst with a strong foundation in the entire data lifecycle, from collection and cleaning to analysis and visualization. I am passionate about leveraging tools like Excel, Google Sheets, Python (Pandas, NumPy, Matplotlib), SQL, and Power BI to uncover trends and drive business growth. 
+
+
+My practical experience includes:
+
+- Retail Sales Analysis: Designed and implemented a retail sales database in MySQL, performing end-to-end data analysis. I utilized advanced SQL queries, including joins and window functions, for customer segmentation and to analyze product performance. 
+
+- T20 World Cup Performance Analysis: Successfully extracted and structured web data into a clean CSV format. I leveraged Power Query for data transformation and automated data integration into Power BI, which enhanced the accuracy of performance reports by 15%. 
+
+
+- Machine Learning Internship: Developed a Telegram bot with Python and API integration to offer disease-specific food recommendations, managing the dataset within the code for seamless retrieval. 
+
+With a B.Tech in Computer Science and Engineering (IoT), I also have experience leading teams, as demonstrated in my final year project where I managed a team of six members to develop an automated E-Challan Enforcement System. I am seeking to apply my technical and collaborative skills to a challenging role in data analytics.
 
 ---
 
@@ -59,24 +68,16 @@
 
 ## 📜 Certifications
 
+- [Deloitte](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_gWJtNQc3e6AZCQhFC_1753604041316_completion_certificate.pdf): *Data Analytics Job Simulation*
 - [IBM](https://drive.google.com/drive/folders/1yaQSAplsIeszRJZ3LNgQLgq8oFiKr7ri?usp=sharing): *SQL for Data Science and Analyzing Data with Excel*  
 - [Internshala Trainings](https://drive.google.com/drive/folders/1TiMwo2DnvuiTFdt34hrBqEPbLRrb1x_R?usp=sharing): *Data Science and Internship & Job Preparation*  
 - [NSDC](https://drive.google.com/file/d/1VZl0yEJXDt9dZSEjFrs_ZOMjnI8lHidC/view?usp=sharing%20): *Data Science*  
 - [Spoken Tutorial Project at IIT Bombay](https://drive.google.com/file/d/1E1BtO5pLtYByulo8_lHw6K6UxkG2LMrp/view?usp=sharing): *Python 3.4.3*
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subani7181&show_icons=true&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subani7181&layout=compact&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Subani7181&theme=radical&hide_border=true" />
-</p>
 
 ---
+
+
 
 ## 🌐 Connect with Me
 
