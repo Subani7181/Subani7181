@@ -68,6 +68,7 @@ With a B.Tech in Computer Science and Engineering (IoT), I also have experience 
 
 ## 📜 Certifications
 
+- [Tata](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_gWJtNQc3e6AZCQhFC_1754119148309_completion_certificate.pdf): *GenAI Powered Data Analytics Job Simulation*
 - [Deloitte](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_gWJtNQc3e6AZCQhFC_1753604041316_completion_certificate.pdf): *Data Analytics Job Simulation*
 - [IBM](https://drive.google.com/drive/folders/1yaQSAplsIeszRJZ3LNgQLgq8oFiKr7ri?usp=sharing): *SQL for Data Science and Analyzing Data with Excel*  
 - [Internshala Trainings](https://drive.google.com/drive/folders/1TiMwo2DnvuiTFdt34hrBqEPbLRrb1x_R?usp=sharing): *Data Science and Internship & Job Preparation*  
