@@ -6,19 +6,19 @@
 
 ## 🧑‍💼 About Me
 
-A dedicated and detail-oriented data analyst with a strong foundation in the entire data lifecycle, from collection and cleaning to analysis and visualization. I am passionate about leveraging tools like Excel, Google Sheets, Python (Pandas, NumPy, Matplotlib), SQL, and Power BI to uncover trends and drive business growth. 
-
+I am a dedicated and detail-oriented data analyst with a strong foundation in the entire data lifecycle, from collection and cleaning to analysis and visualization. I am passionate about leveraging tools like Excel, Google Sheets, Python (Pandas, NumPy, Matplotlib), SQL, and Power BI to uncover trends and drive business growth. 
 
 My practical experience includes:
 
-- Retail Sales Analysis: Designed and implemented a retail sales database in MySQL, performing end-to-end data analysis. I utilized advanced SQL queries, including joins and window functions, for customer segmentation and to analyze product performance. 
+- **Ola Rides Data Analysis:** Conducted end-to-end analysis of 100,000+ Ola ride bookings using Excel, Python, SQL, and Power BI, uncovering key insights on booking success, cancellations, revenue streams, and vehicle performance.
 
-- T20 World Cup Performance Analysis: Successfully extracted and structured web data into a clean CSV format. I leveraged Power Query for data transformation and automated data integration into Power BI, which enhanced the accuracy of performance reports by 15%. 
+- **Retail Sales Analysis:** Designed and implemented a retail sales database in MySQL, performing end-to-end data analysis. I utilized advanced SQL queries, including joins and window functions, for customer segmentation and to analyze product performance. 
 
+- **T20 World Cup Performance Analysis:** I successfully extracted and structured web data into a clean CSV format. I leveraged Power Query for data transformation and automated data integration into Power BI, which enhanced the accuracy of performance reports by 15%.
 
-- Machine Learning Internship: Developed a Telegram bot with Python and API integration to offer disease-specific food recommendations, managing the dataset within the code for seamless retrieval. 
+- **Machine Learning Internship:** Developed a Telegram bot with Python and API integration to offer disease-specific food recommendations, managing the dataset within the code for seamless retrieval.  
 
-With a B.Tech in Computer Science and Engineering (IoT), I also have experience leading teams, as demonstrated in my final year project where I managed a team of six members to develop an automated E-Challan Enforcement System. I am seeking to apply my technical and collaborative skills to a challenging role in data analytics.
+With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrated team leadership by managing a team of six in developing an automated E-Challan Enforcement System as my final year project. I am seeking to apply my technical and collaborative skills to a challenging role in data analytics.
 
 ---
 
@@ -56,11 +56,12 @@ With a B.Tech in Computer Science and Engineering (IoT), I also have experience 
 
 ## 📌 Projects
 
-- 🛒 [Retail Sales SQL Analysis](https://github.com/Subani7181/Retail_Sales_Analysis_SQL_Project)  
-  Cleaned and analyzed retail sales database with SQL, identifying trends and patterns for strategic decisions.
+- [**Ola Rides: End-to-End Data Analysis & Visualization**](https://github.com/Subani7181/Ola_Data_Analyst_Project)**:**
+Conducted end-to-end analysis of 100,000+ Ola ride bookings using Excel, Python, SQL, and Power BI to deliver actionable insights on booking success rates, cancellation patterns, revenue streams, and vehicle performance.
 
-- 🏏 [T20 World Cup 2024 Analysis](https://github.com/Subani7181/ICC_Mens_T20_World_Cup_2024)  
-  Extracted match data, performed analysis using Python and Excel, and visualized player and team performance trends in Power BI to support actionable insights.
+- [**Retail Sales SQL Analysis**](https://github.com/Subani7181/Retail_Sales_Analysis_SQL_Project)**:** Cleaned and analyzed retail sales database with SQL, identifying trends and patterns for strategic decisions.
+
+- [**T20 World Cup 2024 Analysis**](https://github.com/Subani7181/ICC_Mens_T20_World_Cup_2024)**:** Extracted match data, performed analysis using Python and Excel, and visualized player and team performance trends in Power BI to support actionable insights.
 
 
 ---
