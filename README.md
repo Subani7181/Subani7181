@@ -8,16 +8,6 @@
 
 I am a dedicated and detail-oriented data analyst with a strong foundation in the entire data lifecycle, from collection and cleaning to analysis and visualization. I am passionate about leveraging tools like Excel, Google Sheets, Python (Pandas, NumPy, Matplotlib), SQL, and Power BI to uncover trends and drive business growth. 
 
-My practical experience includes:
-
-- **Ola Rides Data Analysis:** Conducted end-to-end analysis of 100,000+ Ola ride bookings using Excel, Python, SQL, and Power BI, uncovering key insights on booking success, cancellations, revenue streams, and vehicle performance.
-
-- **Retail Sales Analysis:** Designed and implemented a retail sales database in MySQL, performing end-to-end data analysis. I utilized advanced SQL queries, including joins and window functions, for customer segmentation and to analyze product performance. 
-
-- **T20 World Cup Performance Analysis:** I successfully extracted and structured web data into a clean CSV format. I leveraged Power Query for data transformation and automated data integration into Power BI, which enhanced the accuracy of performance reports by 15%.
-
-- **Machine Learning Internship:** Developed a Telegram bot with Python and API integration to offer disease-specific food recommendations, managing the dataset within the code for seamless retrieval.  
-
 With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrated team leadership by managing a team of six in developing an automated E-Challan Enforcement System as my final year project. I am seeking to apply my technical and collaborative skills to a challenging role in data analytics.
 
 ---
@@ -56,6 +46,8 @@ With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrate
 
 ## 📌 Projects
 
+- [**Netflix Data Analysis**](https://github.com/Subani7181/Netflix-Data-Analysis)**:**
+This project involves the end-to-end process of cleaning, modeling, and visualizing Netflix's content data. An interactive dashboard was developed to provide actionable insights into the platform's streaming library and global footprint.
 - [**Ola Rides: End-to-End Data Analysis & Visualization**](https://github.com/Subani7181/Ola_Data_Analyst_Project)**:**
 Conducted end-to-end analysis of 100,000+ Ola ride bookings using Excel, Python, SQL, and Power BI to deliver actionable insights on booking success rates, cancellation patterns, revenue streams, and vehicle performance.
 
@@ -85,7 +77,7 @@ Conducted end-to-end analysis of 100,000+ Ola ride bookings using Excel, Python,
 
 <p>
   <a href="mailto:syedmahaboobjani772@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/syed-mahabub-jani-a95a73234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/syed-mahabub-jani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Subani7181" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
