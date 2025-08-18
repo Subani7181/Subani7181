@@ -6,7 +6,7 @@
 
 ## 🧑‍💼 About Me
 
-I am a dedicated and detail-oriented data analyst with a strong foundation in the entire data lifecycle, from collection and cleaning to analysis and visualization. I am passionate about leveraging tools like Excel, Google Sheets, Python (Pandas, NumPy, Matplotlib), SQL, and Power BI to uncover trends and drive business growth. 
+As a passionate Data Analyst with hands-on experience in the end-to-end data lifecycle, I thrive on uncovering actionable insights and driving business value. My expertise spans Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Excel, and Google Sheets, enabling me to transform raw data into compelling visualizations and data-driven strategies. 
 
 With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrated team leadership by managing a team of six in developing an automated E-Challan Enforcement System as my final year project. I am seeking to apply my technical and collaborative skills to a challenging role in data analytics.
 
