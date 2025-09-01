@@ -46,6 +46,8 @@ With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrate
 
 ## 📌 Projects
 
+- [**Job Market Analysis**](https://github.com/Subani7181/Job-Market-Analysis)**:**
+This project involves creating a 300,000-row dataset with GenAI and leveraging a GCP data pipeline with Python and SQL for its end-to-end analysis to deliver actionable insights on salary drivers, hiring patterns, and remote work trends.
 - [**Netflix Data Analysis**](https://github.com/Subani7181/Netflix-Data-Analysis)**:**
 This project involves the end-to-end process of cleaning, modeling, and visualizing Netflix's content data. An interactive dashboard was developed to provide actionable insights into the platform's streaming library and global footprint.
 - [**Ola Rides: End-to-End Data Analysis & Visualization**](https://github.com/Subani7181/Ola_Data_Analyst_Project)**:**
