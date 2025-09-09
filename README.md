@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst&center=true&width=800&height=45">
-</p>
-
----
-
 ## 🧑‍💼 About Me
 
 A results-driven Data Analyst dedicated to transforming raw data into actionable insights and business value. My expertise covers the full data lifecycle, utilizing **Excel**, **Google Sheets**, **Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)**, **SQL**, and **Power BI** to create compelling data-driven strategies.
