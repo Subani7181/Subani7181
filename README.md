@@ -47,15 +47,16 @@ With a B.Tech in Computer Science and Engineering (IoT) and a proven ability to 
 ## 📌 Projects
 
 - [**Job Market Analysis**](https://github.com/Subani7181/Job-Market-Analysis)**:**
-This project involves creating a 300,000-row dataset with GenAI and leveraging a GCP data pipeline with Python and SQL for its end-to-end analysis to deliver actionable insights on salary drivers, hiring patterns, and remote work trends.
+Leveraging GenAI, I engineered a synthetic dataset of over 300,000 job postings to conduct a comprehensive job market analysis. After uploading the data to Google BigQuery, I executed complex SQL queries to answer 15 critical business questions, identifying key hiring trends and salary drivers. Further in-depth analysis was performed in Python using Pandas, Matplotlib, and Seaborn to visualize patterns in salary distribution, in-demand job categories, and the correlation between experience and compensation. This end-to-end project delivered actionable insights into the most competitive skills, the impact of remote work on pay, and seasonal hiring fluctuations.
 - [**Netflix Data Analysis**](https://github.com/Subani7181/Netflix-Data-Analysis)**:**
-This project involves the end-to-end process of cleaning, modeling, and visualizing Netflix's content data. An interactive dashboard was developed to provide actionable insights into the platform's streaming library and global footprint.
+Gathered and cleaned a dataset of 5,800+ Netflix titles from web sources, transformed data in Power Query, and built a many-to-one relationship model, cutting data preparation time by 15%. Created DAX measures for key KPIs, including total content, runtime hours, and average IMDb rating, and visualized trends using bar charts, donut charts, maps, and slicers in Power BI. Designed and published an interactive Power BI dashboard to the Power BI Service, delivering actionable insights on content type distribution, top genres, release trends, and global content presence.
 - [**Ola Rides: End-to-End Data Analysis & Visualization**](https://github.com/Subani7181/Ola_Data_Analyst_Project)**:**
-Conducted end-to-end analysis of 100,000+ Ola ride bookings using Excel, Python, SQL, and Power BI to deliver actionable insights on booking success rates, cancellation patterns, revenue streams, and vehicle performance.
+Performed data preparation and cleaning in Excel, then loaded 100,000+ booking records into a MySQL database using Python for structured analysis. Crafted advanced SQL queries for exploratory data analysis and built interactive dashboards in Power BI using DAX queries to visualize booking trends, cancellations, revenue streams, and ratings. Uncovered key results: 62% booking success rate, cash as the top payment method, primary reasons for cancellations, vehicle performance analysis, and identified top-rated services across vehicle types.
 
-- [**Retail Sales SQL Analysis**](https://github.com/Subani7181/Retail_Sales_Analysis_SQL_Project)**:** Cleaned and analyzed retail sales database with SQL, identifying trends and patterns for strategic decisions.
+- [**Retail Sales SQL Analysis**](https://github.com/Subani7181/Retail_Sales_Analysis_SQL_Project)**:** Performed data cleaning, EDA, and business analysis using SQL on a retail sales database. Extracted insights on sales trends, customer behavior, and product performance to support data-driven decision-making. Created complex queries using aggregations, window functions, and conditional logic for shift-based and monthly analysis.
 
-- [**T20 World Cup 2024 Analysis**](https://github.com/Subani7181/ICC_Mens_T20_World_Cup_2024)**:** Extracted match data, performed analysis using Python and Excel, and visualized player and team performance trends in Power BI to support actionable insights.
+- [**T20 World Cup 2024 Analysis**](https://github.com/Subani7181/ICC_Mens_T20_World_Cup_2024)**:** Extracted T20 World Cup 2024 data from a web source, converted it into a CSV file, and performed data cleaning and transformation using Power Query, including adding calculated columns for enriched analysis. Automated T20 World Cup data integration into Power BI and data transformation improved the accuracy of batting and bowling performance reports by 15% for analysts.
+
 
 
 ---
