@@ -6,9 +6,9 @@
 
 ## 🧑‍💼 About Me
 
-As a passionate Data Analyst with hands-on experience in the end-to-end data lifecycle, I thrive on uncovering actionable insights and driving business value. My expertise spans Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Excel, and Google Sheets, enabling me to transform raw data into compelling visualizations and data-driven strategies. 
+A results-driven Data Analyst dedicated to transforming raw data into actionable insights and business value. My expertise covers the full data lifecycle, utilizing **Excel**, **Google Sheets**, **Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)**, **SQL**, and **Power BI** to create compelling data-driven strategies.
 
-With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrated team leadership by managing a team of six in developing an automated E-Challan Enforcement System as my final year project. I am seeking to apply my technical and collaborative skills to a challenging role in data analytics.
+With a B.Tech in Computer Science and Engineering (IoT) and a proven ability to lead, I managed a team of six to develop an automated E-Challan Enforcement System for my final year project. Seeking a challenging **data analytics** role where I can leverage my technical and collaborative skills to contribute to impactful projects.
 
 ---
 
@@ -19,6 +19,7 @@ With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrate
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
 </p>
 
 ### 📊 Data & BI Tools
@@ -26,6 +27,7 @@ With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrate
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
 ### 👨‍💻 Programming
@@ -40,6 +42,7 @@ With a B.Tech in Computer Science and Engineering (IoT), I have also demonstrate
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
 ---
