@@ -1,6 +1,6 @@
 ## 🧑‍💼 About Me
 
-A results-driven Data Analyst dedicated to transforming raw data into actionable insights and business value. My expertise covers the full data lifecycle, utilizing **Excel**, **Google Sheets**, **Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)**, **SQL**, and **Power BI** to create compelling data-driven strategies.
+A results-driven Data Analyst dedicated to transforming raw data into actionable insights and business value. My expertise covers the full data lifecycle, utilizing **Excel**, **Google Sheets**, **Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)**, **SQL**, **MySQL**, **Google BigQuery**,**Google Looker Studio**, and **Power BI** to create compelling data-driven strategies.
 
 With a B.Tech in Computer Science and Engineering (IoT) and a proven ability to lead, I managed a team of six to develop an automated E-Challan Enforcement System for my final year project. Seeking a challenging **data analytics** role where I can leverage my technical and collaborative skills to contribute to impactful projects.
 
@@ -22,6 +22,7 @@ With a B.Tech in Computer Science and Engineering (IoT) and a proven ability to 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
 </p>
 
 ### 👨‍💻 Programming
